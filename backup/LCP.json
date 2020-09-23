@@ -39,7 +39,6 @@
   },
   "dependencies": [
     "database",
-    "liferay"
   ],
   "environments": {
     "infra": {
