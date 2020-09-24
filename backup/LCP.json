@@ -38,7 +38,7 @@
     "data": "/opt/liferay/data"
   },
   "dependencies": [
-    "database",
+    "database"
   ],
   "environments": {
     "infra": {
